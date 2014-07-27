@@ -1,3 +1,4 @@
+![alt tag](http://mattoettinger.com/github/gulp-foundation5-template/github.png)
 # Gulp & Foundation 5 Template - Tuned
 
 This template combines Gulp.js and the Zurb Foundation responsive framework. I have also added some extras:
