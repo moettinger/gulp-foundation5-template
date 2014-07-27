@@ -1,0 +1,11 @@
+{
+  "name": "InvoiceCloud",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Oettinger <oettingerdev@gmail.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "foundation": "~5.3.1"
+  }
+}
